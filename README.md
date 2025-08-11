@@ -44,13 +44,13 @@ dynamic lighting applied to the lanterns (light source), and shadows are cast on
   <tr>
     <td>
       <figure>
-        <img src="assets/pictures/boat_shadow.png" alt="shadow cast by lanterns spawned behind the boat" height="250">
+        <img src="assets/pictures/boat_shadow.png" alt="shadow cast by lanterns spawned behind the boat" width="400">
         <figcaption>shadow cast by lanterns spawned behind (as the boat moves forward)</figcaption>
       </figure>
     </td>
     <td>
       <figure>
-        <img src="assets/pictures/castle_burst.jpg" alt="castle lit by lantern burst" height="250">
+        <img src="assets/pictures/castle_burst.jpg" alt="castle lit by lantern burst" width="400">
         <figcaption>dynamic lights and shadow on the castle as lanterns burst</figcaption>
       </figure>
     </td>
