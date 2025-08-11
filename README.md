@@ -44,6 +44,7 @@ shadow cast by lanterns spawned behind (as the boat moves forward)
 <img src="assets/pictures/boat_shadow.jpg" alt="shadow cast" width="400">
 
 dynamic lights and shadow on the castle as lanterns burst
+
 <img src="assets/pictures/castle_burst.jpg" alt="castle lit by lantern burst" width="400">
 
 ## Hierarchical Rotation (2-level)
