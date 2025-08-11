@@ -40,22 +40,11 @@
 ## Dynamic Lighting & Shadow
 dynamic lighting applied to the lanterns (light source), and shadows are cast on the boat, island, and castle
 
-<table>
-  <tr>
-    <td>
-      <figure>
-        <img src="assets/pictures/boat_shadow.png" alt="shadow cast by lanterns spawned behind the boat" width="400">
-        <figcaption>shadow cast by lanterns spawned behind (as the boat moves forward)</figcaption>
-      </figure>
-    </td>
-    <td>
-      <figure>
-        <img src="assets/pictures/castle_burst.jpg" alt="castle lit by lantern burst" width="400">
-        <figcaption>dynamic lights and shadow on the castle as lanterns burst</figcaption>
-      </figure>
-    </td>
-  </tr>
-</table>
+<img src="assets/pictures/boat_shadow.png" alt="shadow cast" width="400">
+shadow cast by lanterns spawned behind (as the boat moves forward)
+
+<img src="assets/pictures/castle_burst.jpg" alt="castle lit by lantern burst" width="400">
+dynamic lights and shadow on the castle as lanterns burst
 
 ## Hierarchical Rotation (2-level)
 the flower (child) self-rotates and orbits around the boat (parent)
