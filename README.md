@@ -40,7 +40,7 @@
 ## Dynamic Lighting & Shadow
 dynamic lighting applied to the lanterns (light source), and shadows are cast on the boat, island, and castle
 
-<img src="assets/pictures/boat_shadow.png" alt="shadow cast" width="400">
+<img src="assets/pictures/boat_shadow.jpg" alt="shadow cast" width="400">
 shadow cast by lanterns spawned behind (as the boat moves forward)
 
 <img src="assets/pictures/castle_burst.jpg" alt="castle lit by lantern burst" width="400">
