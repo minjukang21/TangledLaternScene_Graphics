@@ -1,4 +1,4 @@
-#Tangled-Inspired Floating Lanterns
+# Tangled-Inspired Floating Lanterns
 
 ## Camera Movements (Boat Control)
 - Mouse: look around
