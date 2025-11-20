@@ -1,6 +1,4 @@
-# Assignment 2 – Tangled-Inspired Floating Lanterns
-
-Team Members: Daniel Haselock (ID: 40276733), Minju Kang (ID: 40278728)
+#Tangled-Inspired Floating Lanterns
 
 ## Camera Movements (Boat Control)
 - Mouse: look around
